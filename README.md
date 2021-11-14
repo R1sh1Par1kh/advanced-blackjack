@@ -1,1 +1,1 @@
-# advanced-blackjack
+Hey users, this is Blackjack (python), a popoular game played in casinos. Here is how to play: you get your cards, and then decide if you want to hit or stay. The objective of the game is for the total value of the cards to be under 21. Have fun :)
